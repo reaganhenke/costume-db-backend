@@ -478,5 +478,75 @@
         "gender": "female"
       }
     ]
+  },
+  {
+    "name": "Bachelors",
+    "origin": "Stardew Valley",
+    "imageUrl": "",
+    "fandomLink": "https://stardewvalley.fandom.com/wiki/Category:Bachelors",
+    "description": "Alex, Sebastian, Elliot, Harvey, Shane, and Sam are the most handsome bachelors in Stardew Valley!",
+    "theme": ["videogame"],
+    "size": 6,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Bachelorettes",
+    "origin": "Stardew Valley",
+    "imageUrl": "",
+    "fandomLink": "https://stardewvalley.fandom.com/wiki/Category:Bachelorettes",
+    "description": "Leah, Haley, Penny, Emily, Maru, and Abigail are the beautiful bachelorettes in Stardew Valley!",
+    "theme": ["videogame"],
+    "size": 6,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "blue",
+        "gender": "female"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "purple",
+        "gender": "female"
+      }
+    ]
   }
 ]
