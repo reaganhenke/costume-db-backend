@@ -248,5 +248,170 @@
         "gender": "male"
       }
     ]
+  },
+  {
+    "name": "Brad & Janet",
+    "origin": "Rocky Horror Picture Show",
+    "imageUrl": "https://i.imgur.com/NR0UK9v.png",
+    "fandomLink": "https://rockyhorror.fandom.com/wiki/Rocky_Horror_Wiki",
+    "description": "Two normal, healthy kids on a night out. ",
+    "theme": ["couple", "movie", "nsfw"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Frank N Furter & Rocky Horror",
+    "origin": "Rocky Horror Picture Show",
+    "imageUrl": "https://i.imgur.com/goPSnXT.png",
+    "fandomLink": "https://rockyhorror.fandom.com/wiki/Rocky_Horror_Wiki",
+    "description": "Nobody could be more \"made for each other\" than a mad scientist and the monster he created.",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Magenta & RiffRaff",
+    "origin": "Rocky Horror Picture Show",
+    "imageUrl": "https://i.imgur.com/mzt6DoB.png",
+    "fandomLink": "https://rockyhorror.fandom.com/wiki/Rocky_Horror_Wiki",
+    "description": "Siblings or lovers? You decide. ",
+    "theme": ["siblings"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Columbia & Eddie",
+    "origin": "Rocky Horror Picture Show",
+    "imageUrl": "https://i.imgur.com/AJOXz9k.png",
+    "fandomLink": "https://rockyhorror.fandom.com/wiki/Rocky_Horror_Wiki",
+    "description": "Hot patootie, bless my soul!",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Frank, Columbia, Magenta, and RiffRaff",
+    "origin": "Rocky Horror Picture Show",
+    "imageUrl": "https://i.imgur.com/u2hMkIJ.png",
+    "fandomLink": "https://rockyhorror.fandom.com/wiki/Rocky_Horror_Wiki",
+    "description": "These castle dwellers are rather unconventional. ",
+    "theme": [],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Columbia & Magenta",
+    "origin": "Rocky Horror Picture Show",
+    "imageUrl": "https://i.imgur.com/i9epBkN.png",
+    "fandomLink": "https://rockyhorror.fandom.com/wiki/Rocky_Horror_Wiki",
+    "description": "Toucha toucha toucha touch me!",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Full Cast",
+    "origin": "Rocky Horror Picture Show",
+    "imageUrl": "https://i.imgur.com/jcyQJAQ.png",
+    "fandomLink": "https://rockyhorror.fandom.com/wiki/Rocky_Horror_Wiki",
+    "description": "Brad, Janet, Frank, Rocky, Eddie, Columbia, RiffRaff, and Magenta make up the cast of one of the oldest and best cult classic movies.",
+    "theme": ["movie", "nsfw"],
+    "size": 8,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      }
+    ]
   }
 ]
