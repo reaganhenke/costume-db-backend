@@ -5,7 +5,7 @@
     "imageUrl": "https://static.wikia.nocookie.net/friends/images/c/c9/Ross_and_Rachel_-_Final_Kiss_-_10x18.png",
     "fandomLink": "https://friends.fandom.com/wiki/Ross_and_Rachel",
     "description": "On again off again Rachel and Ross are one of the central couples on Friends. Were they on a break? It's up to you!",
-    "theme": [],
+    "theme": ["couple", "television"],
     "size": 2,
     "characters": [
       {
@@ -24,7 +24,7 @@
     "imageUrl": "https://i.imgur.com/q1F6tzO.png",
     "fandomLink": "https://friends.fandom.com/wiki/Friends",
     "description": "Friends first, lovers later, Monica and Chandler make a perfect pair.",
-    "theme": [],
+    "theme": ["couple"],
     "size": 2,
     "characters": [
       {
@@ -43,7 +43,7 @@
     "imageUrl": "https://i.imgur.com/5006DaU.png",
     "fandomLink": "https://friends.fandom.com/wiki/Friends",
     "description": "Friends is one of the most popular sitcoms of all time, this group is super recognizable and close knit!",
-    "theme": [],
+    "theme": ["television"],
     "size": 6,
     "characters": [
       {
@@ -124,7 +124,7 @@
     "imageUrl": "https://i.imgur.com/bKJM6IV.png",
     "fandomLink": "https://bobs-burgers.fandom.com/wiki/Belcher_Family",
     "description": "Bob, Linda, Tina, Gene, and Louise make up the Belchers. They may not be the classiest family, but they've got plenty of heart!",
-    "theme": ["television", "siblings"],
+    "theme": ["television", "animation"],
     "size": 5,
     "characters": [
       {
@@ -155,7 +155,7 @@
     "imageUrl": "https://i.imgur.com/scYENWc.png",
     "fandomLink": "https://bobs-burgers.fandom.com/wiki/Belcher_Family",
     "description": "No siblings are closer than Tina, Gene, and Louise!",
-    "theme": ["television", "siblings"],
+    "theme": ["siblings"],
     "size": 3,
     "characters": [
       {
@@ -178,7 +178,7 @@
     "imageUrl": "https://i.imgur.com/meUiSYi.png",
     "fandomLink": "https://bobs-burgers.fandom.com/wiki/Belcher_Family",
     "description": "They support each other through thick and thin!",
-    "theme": [],
+    "theme": ["couple"],
     "size": 2,
     "characters": [
       {
@@ -188,6 +188,64 @@
       {
         "hair": "black",
         "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Wagstaff 8th Graders",
+    "origin": "Bob's Burgers",
+    "imageUrl": "https://i.imgur.com/XA5jHHk.png",
+    "fandomLink": "https://bobs-burgers.fandom.com/wiki/Bob%27s_Burgers_Wiki",
+    "description": "Tina, Tammy, Jocelyn, Zeke, and Jimmy Jr are the coolest students at Wagstaff elementary.",
+    "theme": [],
+    "size": 5,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Boyz4Now",
+    "origin": "Bob's Burgers",
+    "imageUrl": "https://i.imgur.com/waXZHRK.png",
+    "fandomLink": "https://bobs-burgers.fandom.com/wiki/Boyz4Now",
+    "description": "Allen, Matt, Boo Boo, and Griffin make up Boyz4Now; most popular boy band in the world!",
+    "theme": [],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
       }
     ]
   }
