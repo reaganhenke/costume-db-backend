@@ -413,5 +413,70 @@
         "gender": "male"
       }
     ]
+  },
+  {
+    "name": "Moira and Johnny Rose",
+    "origin": "Schitt's Creek",
+    "imageUrl": "",
+    "fandomLink": "https://schitts-creek.fandom.com/wiki/Schitt%27s_Creek_Wiki",
+    "description": "These two may have fallen from riches, but not out of love with eachother.",
+    "theme": ["television", "couple"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "gray",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "The Rose Family",
+    "origin": "Schitt's Creek",
+    "imageUrl": "",
+    "fandomLink": "https://schitts-creek.fandom.com/wiki/Schitt%27s_Creek_Wiki",
+    "description": "Once wealthy, now broke, the Rose Family is forced to come together in their new life in Schitt's Creek.",
+    "theme": ["television", "family"],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "gray",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Alexis & David",
+    "origin": "Schitt's Creek",
+    "imageUrl": "",
+    "fandomLink": "https://schitts-creek.fandom.com/wiki/Schitt%27s_Creek_Wiki",
+    "description": "Ew, David!",
+    "theme": ["siblings"],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      }
+    ]
   }
 ]
