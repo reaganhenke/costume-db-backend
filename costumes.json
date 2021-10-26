@@ -1374,7 +1374,7 @@
   {
     "name": "Luke & Leia Skywalker",
     "origin": "Star Wars",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/FlKW88I.png",
     "fandomLink": "https://starwars.fandom.com/wiki/Main_Page",
     "description": "A super stellar duo!",
     "theme": ["siblings"],
@@ -1393,7 +1393,7 @@
   {
     "name": "Han Solo & Luke Skywalker",
     "origin": "Star Wars",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/otFdwQc.png",
     "fandomLink": "https://starwars.fandom.com/wiki/Main_Page",
     "description": "BFFs forever!",
     "theme": [],
@@ -1412,7 +1412,7 @@
   {
     "name": "Han Solo & Princess Leia",
     "origin": "Star Wars",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/TCX5GL3.png",
     "fandomLink": "https://starwars.fandom.com/wiki/Main_Page",
     "description": "A super stellar pair",
     "theme": [],
@@ -1431,7 +1431,7 @@
   {
     "name": "Han Solo, Princess Leia, and Luke Skywalker",
     "origin": "Star Wars",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/8FrHpd5.png",
     "fandomLink": "https://starwars.fandom.com/wiki/Main_Page",
     "description": "A super stellar trio",
     "theme": [],
@@ -1454,7 +1454,7 @@
   {
     "name": "Luke, Leia, Han, and Darth Vader",
     "origin": "Star Wars",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/IjaHB0o.png",
     "fandomLink": "https://starwars.fandom.com/wiki/Main_Page",
     "description": "A super stellar group",
     "theme": [],
@@ -1481,7 +1481,7 @@
   {
     "name": "Luke, Leia, Han, Darth Vader, and Yoda",
     "origin": "Star Wars",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/IjaHB0o.png",
     "fandomLink": "https://starwars.fandom.com/wiki/Main_Page",
     "description": "A super stellar group",
     "theme": ["movie"],
@@ -1512,7 +1512,7 @@
   {
     "name": "Sharkboy & Lavagirl",
     "origin": "Sharkboy and Lavagirl",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/Ja1FxSQ.png",
     "fandomLink": "https://theadventuresofsharkboyandlavagirl.fandom.com/wiki/Main_Page",
     "description": "The iconic pair!",
     "theme": ["movie"],
@@ -1531,7 +1531,7 @@
   {
     "name": "Sharkboy, Lavagirl, and Max",
     "origin": "Sharkboy and Lavagirl",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/sybchRJ.png",
     "fandomLink": "https://theadventuresofsharkboyandlavagirl.fandom.com/wiki/Main_Page",
     "description": "The iconic pair and the boy who dreamed them!",
     "theme": ["movie"],
@@ -1554,7 +1554,7 @@
   {
     "name": "Sharkboy, Lavagirl, Max, and Mr. Electric",
     "origin": "Sharkboy and Lavagirl",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/jqVbanQ.png",
     "fandomLink": "https://theadventuresofsharkboyandlavagirl.fandom.com/wiki/Main_Page",
     "description": "Throwback to this 3-D fantasy!",
     "theme": ["movie"],
@@ -1581,7 +1581,7 @@
   {
     "name": "Hercules & Meg",
     "origin": "Hercules",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/UEiGEar.png",
     "fandomLink": "https://disney.fandom.com/wiki/Hercules_(film)",
     "description": "He's a hunk!",
     "theme": ["couple", "movie"],
@@ -1600,7 +1600,7 @@
   {
     "name": "The Muses",
     "origin": "Hercules",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/BkWnDA7.png",
     "fandomLink": "https://disney.fandom.com/wiki/Hercules_(film)",
     "description": "Calliope, Clio, Melpomene, Terpsichore, and Thalia are the muses!",
     "theme": [],
@@ -1631,7 +1631,7 @@
   {
     "name": "Hercules, Phil, Meg and Hades",
     "origin": "Hercules",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/RGqZeB9.png",
     "fandomLink": "https://disney.fandom.com/wiki/Hercules_(film)",
     "description": "Classic characters from Greek mythology",
     "theme": [],
@@ -1658,7 +1658,7 @@
   {
     "name": "Hercules, Phil, Meg, Hades, and Zeus",
     "origin": "Hercules",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/RGqZeB9.png",
     "fandomLink": "https://disney.fandom.com/wiki/Hercules_(film)",
     "description": "Classic characters from Greek mythology",
     "theme": [],
@@ -1689,7 +1689,7 @@
   {
     "name": "The Fates",
     "origin": "Hercules",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/En4DEPs.png",
     "fandomLink": "https://disney.fandom.com/wiki/Hercules_(film)",
     "description": "Lechesis, Clotho, and Atropos are the Fates!",
     "theme": [],
@@ -1712,7 +1712,7 @@
   {
     "name": "Hades, Pain, and Panic",
     "origin": "Hercules",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/zRt28PR.png",
     "fandomLink": "https://disney.fandom.com/wiki/Hercules_(film)",
     "description": "The god of the underworld and his henchmen",
     "theme": [],
@@ -1733,9 +1733,28 @@
     ]
   },
   {
+    "name": "Pain & Panic",
+    "origin": "Hercules",
+    "imageUrl": "https://i.imgur.com/zRt28PR.png",
+    "fandomLink": "https://disney.fandom.com/wiki/Hercules_(film)",
+    "description": "The god of the underworld's henchmen",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "",
+        "gender": "male"
+      },
+      {
+        "hair": "",
+        "gender": "male"
+      }
+    ]
+  },
+  {
     "name": "Ariel & Ursula",
     "origin": "Little Mermaid",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/bO1GbQm.png",
     "fandomLink": "https://disney.fandom.com/wiki/The_Little_Mermaid",
     "description": "The little mermaid and a sea witch!",
     "theme": [],
@@ -1754,7 +1773,7 @@
   {
     "name": "Ariel, Eric, King Triton, and Ursula",
     "origin": "Little Mermaid",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/JS5Dzvi.png",
     "fandomLink": "https://disney.fandom.com/wiki/The_Little_Mermaid",
     "description": "Part of your world!",
     "theme": ["movie", "animation"],
@@ -1781,7 +1800,7 @@
   {
     "name": "Ariel & Eric",
     "origin": "Little Mermaid",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/6QBdn6W.png",
     "fandomLink": "https://disney.fandom.com/wiki/The_Little_Mermaid",
     "description": "Kiss the girl!",
     "theme": ["couple"],
@@ -1800,7 +1819,7 @@
   {
     "name": "Ariel, King Triton, and Ursula",
     "origin": "Little Mermaid",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/JS5Dzvi.png",
     "fandomLink": "https://disney.fandom.com/wiki/The_Little_Mermaid",
     "description": "Part of your world!",
     "theme": [],
@@ -1823,7 +1842,7 @@
   {
     "name": "Ariel, Eric, King Triton, Ursula, and Flounder",
     "origin": "Little Mermaid",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/JS5Dzvi.png",
     "fandomLink": "https://disney.fandom.com/wiki/The_Little_Mermaid",
     "description": "Part of your world!",
     "theme": [],
@@ -1854,7 +1873,7 @@
   {
     "name": "Elsa & Anna",
     "origin": "Frozen",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/gYxHPiq.png",
     "fandomLink": "https://disney.fandom.com/wiki/Frozen",
     "description": "Sisters and best friends.",
     "theme": ["siblings"],
@@ -1873,7 +1892,7 @@
   {
     "name": "Anna & Kristoff",
     "origin": "Frozen",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/EYQc1OC.png",
     "fandomLink": "https://disney.fandom.com/wiki/Frozen",
     "description": "He's a bit of a fixer upper.",
     "theme": ["couple"],
@@ -1892,7 +1911,7 @@
   {
     "name": "Elsa, Anna, and Kristoff",
     "origin": "Frozen",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/CgLiu46.png",
     "fandomLink": "https://disney.fandom.com/wiki/Frozen",
     "description": "Let it go!",
     "theme": ["movie"],
@@ -1915,7 +1934,7 @@
   {
     "name": "Elsa, Anna, Kristoff, and Olaf",
     "origin": "Frozen",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/CgLiu46.png",
     "fandomLink": "https://disney.fandom.com/wiki/Frozen",
     "description": "Let it go!",
     "theme": [],
@@ -1942,7 +1961,7 @@
   {
     "name": "Elsa, Anna, Kristoff, Olaf, and Sven",
     "origin": "Frozen",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/CgLiu46.png",
     "fandomLink": "https://disney.fandom.com/wiki/Frozen",
     "description": "Let it go!",
     "theme": [],
@@ -1973,7 +1992,7 @@
   {
     "name": "Aladdin & Jasmine",
     "origin": "Aladdin",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/FSaBMba.png",
     "fandomLink": "https://disney.fandom.com/wiki/Aladdin_(film)",
     "description": "A whole new world!",
     "theme": ["couple"],
@@ -1992,7 +2011,7 @@
   {
     "name": "Aladdin, Jasmine, and Genie",
     "origin": "Aladdin",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/AVh3mFC.png",
     "fandomLink": "https://disney.fandom.com/wiki/Aladdin_(film)",
     "description": "A whole new world!",
     "theme": ["animation"],
@@ -2015,7 +2034,7 @@
   {
     "name": "Aladdin, Jasmine, Genie, and Jafar",
     "origin": "Aladdin",
-    "imageUrl": "",
+    "imageUrl": "https://i.imgur.com/AVh3mFC.png",
     "fandomLink": "https://disney.fandom.com/wiki/Aladdin_(film)",
     "description": "An animated classic.",
     "theme": [],
