@@ -1305,5 +1305,550 @@
         "gender": "male"
       }
     ]
+  },
+  {
+    "name": "Mavis & Jonathan",
+    "origin": "Hotel Transylvania",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A vampire and her human boyfriend.",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "red",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Dracula, Mavis, and Jonathan",
+    "origin": "Hotel Transylvania",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A vampire duo and their human friend.",
+    "theme": [],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Mavis, Jonathan, and Dennis",
+    "origin": "Hotel Transylvania",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A half vampire couple and their son",
+    "theme": ["family"],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "red",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Luke & Leia Skywalker",
+    "origin": "Star Wars",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A super stellar duo!",
+    "theme": ["siblings"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Han Solo & Luke Skywalker",
+    "origin": "Star Wars",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "BFFs forever!",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Han Solo & Princess Leia",
+    "origin": "Star Wars",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A super stellar pair",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Han Solo, Princess Leia, and Luke Skywalker",
+    "origin": "Star Wars",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A super stellar trio",
+    "theme": [],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Luke, Leia, Han, and Darth Vader",
+    "origin": "Star Wars",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A super stellar group",
+    "theme": [],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Luke, Leia, Han, Darth Vader, and Yoda",
+    "origin": "Star Wars",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A super stellar group",
+    "theme": ["movie"],
+    "size": 5,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "",
+        "gender": "male"
+      },
+      {
+        "hair": "",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Sharkboy & Lavagirl",
+    "origin": "Sharkboy and Lavagirl",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "The iconic pair!",
+    "theme": ["movie"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Sharkboy, Lavagirl, and Max",
+    "origin": "Sharkboy and Lavagirl",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "The iconic pair and the boy who dreamed them!",
+    "theme": ["movie"],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Sharkboy, Lavagirl, Max, and Mr. Electric",
+    "origin": "Sharkboy and Lavagirl",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Throwback to this 3-D fantasy!",
+    "theme": ["movie"],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Hercules & Meg",
+    "origin": "Hercules",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "He's a hunk!",
+    "theme": ["couple", "movie"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "red",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "The Muses",
+    "origin": "Hercules",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Calliope, Clio, Melpomene, Terpsichore, and Thalia are the muses!",
+    "theme": [],
+    "size": 5,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Hercules, Phil, Meg and Hades",
+    "origin": "Hercules",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Classic characters from Greek mythology",
+    "theme": [],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "red",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "blue",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Hercules, Phil, Meg, Hades, and Zeus",
+    "origin": "Hercules",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Classic characters from Greek mythology",
+    "theme": [],
+    "size": 5,
+    "characters": [
+      {
+        "hair": "red",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "blue",
+        "gender": "male"
+      },
+      {
+        "hair": "gray",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "The Fates",
+    "origin": "Hercules",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Lechesis, Clotho, and Atropos are the Fates!",
+    "theme": [],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "gray",
+        "gender": "female"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Hades, Pain, and Panic",
+    "origin": "Hercules",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "The god of the underworld and his henchmen",
+    "theme": [],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "blue",
+        "gender": "male"
+      },
+      {
+        "hair": "",
+        "gender": "male"
+      },
+      {
+        "hair": "",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Ariel & Ursula",
+    "origin": "Little Mermaid",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "The little mermaid and a sea witch!",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Ariel, Eric, King Triton, and Ursula",
+    "origin": "Little Mermaid",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Part of your world!",
+    "theme": ["movie", "animation"],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "gray",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Ariel & Eric",
+    "origin": "Little Mermaid",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Kiss the girl!",
+    "theme": ["couple"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Ariel, King Triton, and Ursula",
+    "origin": "Little Mermaid",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Part of your world!",
+    "theme": [],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "gray",
+        "gender": "male"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Ariel, Eric, King Triton, Ursula, and Flounder",
+    "origin": "Little Mermaid",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Part of your world!",
+    "theme": [],
+    "size": 5,
+    "characters": [
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "gray",
+        "gender": "male"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "blue",
+        "gender": "male"
+      }
+    ]
   }
 ]
