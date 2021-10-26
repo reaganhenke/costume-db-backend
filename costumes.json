@@ -1850,5 +1850,193 @@
         "gender": "male"
       }
     ]
+  },
+  {
+    "name": "Elsa & Anna",
+    "origin": "Frozen",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Sisters and best friends.",
+    "theme": ["siblings"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Anna & Kristoff",
+    "origin": "Frozen",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "He's a bit of a fixer upper.",
+    "theme": ["couple"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Elsa, Anna, and Kristoff",
+    "origin": "Frozen",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Let it go!",
+    "theme": ["movie"],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Elsa, Anna, Kristoff, and Olaf",
+    "origin": "Frozen",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Let it go!",
+    "theme": [],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Elsa, Anna, Kristoff, Olaf, and Sven",
+    "origin": "Frozen",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "Let it go!",
+    "theme": [],
+    "size": 5,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "",
+        "gender": "male"
+      },
+      {
+        "hair": "",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Aladdin & Jasmine",
+    "origin": "Aladdin",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A whole new world!",
+    "theme": ["couple"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Aladdin, Jasmine, and Genie",
+    "origin": "Aladdin",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A whole new world!",
+    "theme": ["animation"],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "blue",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Aladdin, Jasmine, Genie, and Jafar",
+    "origin": "Aladdin",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "An animated classic.",
+    "theme": [],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "blue",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
   }
 ]
