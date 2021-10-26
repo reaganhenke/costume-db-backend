@@ -38,6 +38,15 @@ Example:
 - `characters`: a list of the characters, represented by hair color/gender
 
 ### general notes
-Please read the terms of use on [CostumeDatabase.com](https://costumedatabase.com/terms). We can't promise all costumes will make it into the database or gaurantee any timelines. Thanks for checking it out :)
+Please read the terms of use on [CostumeDatabase.com](https://costumedatabase.com/terms). Thanks for helping us out :)
 
 [More information about contributing to Github](https://www.dataschool.io/how-to-contribute-on-github/)
+1. Fork the project repository 
+2. Clone your fork 
+3. Add this repo as an upstream `git remote add upstream https://github.com/reaganhenke/costume-db-backend`
+4. Pull the latest `git pull upstream main`
+5. Create a new branch
+6. Commit your changes and push them to your fork
+7. On Github, open a Pull Request against the base-repository
+
+We may close or request changes on pull requests that don't meet the requirements. Thanks for helping us out!
