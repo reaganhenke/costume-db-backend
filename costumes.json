@@ -124,7 +124,7 @@
     "imageUrl": "https://i.imgur.com/bKJM6IV.png",
     "fandomLink": "https://bobs-burgers.fandom.com/wiki/Belcher_Family",
     "description": "Bob, Linda, Tina, Gene, and Louise make up the Belchers. They may not be the classiest family, but they've got plenty of heart!",
-    "theme": ["television", "animation"],
+    "theme": ["television", "animation", "family"],
     "size": 5,
     "characters": [
       {
@@ -255,7 +255,7 @@
     "imageUrl": "https://i.imgur.com/NR0UK9v.png",
     "fandomLink": "https://rockyhorror.fandom.com/wiki/Rocky_Horror_Wiki",
     "description": "Two normal, healthy kids on a night out. ",
-    "theme": ["couple", "movie", "nsfw"],
+    "theme": ["couple", "movie", "adult"],
     "size": 2,
     "characters": [
       {
@@ -377,7 +377,7 @@
     "imageUrl": "https://i.imgur.com/jcyQJAQ.png",
     "fandomLink": "https://rockyhorror.fandom.com/wiki/Rocky_Horror_Wiki",
     "description": "Brad, Janet, Frank, Rocky, Eddie, Columbia, RiffRaff, and Magenta make up the cast of one of the oldest and best cult classic movies.",
-    "theme": ["movie", "nsfw"],
+    "theme": ["movie", "adult"],
     "size": 8,
     "characters": [
       {
@@ -736,7 +736,7 @@
     "imageUrl": "https://i.imgur.com/5ERX6Kw.png",
     "fandomLink": "https://coraline.fandom.com/wiki/Coraline_Wiki",
     "description": "A spooky pair!",
-    "theme": [],
+    "theme": ["movie", "animation"],
     "size": 2,
     "characters": [
       {
@@ -774,7 +774,7 @@
     "imageUrl": "https://i.imgur.com/z24CzAz.png",
     "fandomLink": "https://coraline.fandom.com/wiki/Coraline_Wiki",
     "description": "A spooky pair!",
-    "theme": [],
+    "theme": ["couple"],
     "size": 2,
     "characters": [
       {
@@ -1312,7 +1312,7 @@
     "imageUrl": "https://i.imgur.com/KWjNTzm.png",
     "fandomLink": "https://hoteltransylvania.fandom.com/wiki/Hotel_Transylvania_Wiki",
     "description": "A vampire and her human boyfriend.",
-    "theme": [],
+    "theme": ["couple"],
     "size": 2,
     "characters": [
       {
@@ -1415,7 +1415,7 @@
     "imageUrl": "https://i.imgur.com/TCX5GL3.png",
     "fandomLink": "https://starwars.fandom.com/wiki/Main_Page",
     "description": "A super stellar pair",
-    "theme": [],
+    "theme": ["couple"],
     "size": 2,
     "characters": [
       {
@@ -1534,7 +1534,7 @@
     "imageUrl": "https://i.imgur.com/sybchRJ.png",
     "fandomLink": "https://theadventuresofsharkboyandlavagirl.fandom.com/wiki/Main_Page",
     "description": "The iconic pair and the boy who dreamed them!",
-    "theme": ["movie"],
+    "theme": [],
     "size": 3,
     "characters": [
       {
@@ -1557,7 +1557,7 @@
     "imageUrl": "https://i.imgur.com/jqVbanQ.png",
     "fandomLink": "https://theadventuresofsharkboyandlavagirl.fandom.com/wiki/Main_Page",
     "description": "Throwback to this 3-D fantasy!",
-    "theme": ["movie"],
+    "theme": [],
     "size": 4,
     "characters": [
       {
@@ -1584,7 +1584,7 @@
     "imageUrl": "https://i.imgur.com/UEiGEar.png",
     "fandomLink": "https://disney.fandom.com/wiki/Hercules_(film)",
     "description": "He's a hunk!",
-    "theme": ["couple", "movie"],
+    "theme": ["couple", "movie", "disney"],
     "size": 2,
     "characters": [
       {
@@ -1776,7 +1776,7 @@
     "imageUrl": "https://i.imgur.com/JS5Dzvi.png",
     "fandomLink": "https://disney.fandom.com/wiki/The_Little_Mermaid",
     "description": "Part of your world!",
-    "theme": ["movie", "animation"],
+    "theme": ["movie", "animation", "disney"],
     "size": 4,
     "characters": [
       {
@@ -1914,7 +1914,7 @@
     "imageUrl": "https://i.imgur.com/CgLiu46.png",
     "fandomLink": "https://disney.fandom.com/wiki/Frozen",
     "description": "Let it go!",
-    "theme": ["movie"],
+    "theme": ["movie", "disney", "animation"],
     "size": 3,
     "characters": [
       {
@@ -2014,7 +2014,7 @@
     "imageUrl": "https://i.imgur.com/AVh3mFC.png",
     "fandomLink": "https://disney.fandom.com/wiki/Aladdin_(film)",
     "description": "A whole new world!",
-    "theme": ["animation"],
+    "theme": ["animation", "disney"],
     "size": 3,
     "characters": [
       {
