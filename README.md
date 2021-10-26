@@ -40,3 +40,4 @@ Example:
 ### general notes
 Please read the terms of use on [CostumeDatabase.com](https://costumedatabase.com/terms). We can't promise all costumes will make it into the database or gaurantee any timelines. Thanks for checking it out :)
 
+[More information about contributing to Github](https://www.dataschool.io/how-to-contribute-on-github/)
