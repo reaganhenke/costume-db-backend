@@ -548,5 +548,762 @@
         "gender": "female"
       }
     ]
-  }
+  },
+  {
+    "name": "Dr. Frederick & Inga",
+    "origin": "Young Frankenstein ",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "The doctor and his lovely assistant!",
+    "theme": ["couple"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Frederick & Igor",
+    "origin": "Young Frankenstein ",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "The doctor and his hunchbacked assistant!",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "bald",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Frederick, Inga, and Igor",
+    "origin": "Young Frankenstein ",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A dynamic trio!",
+    "theme": [],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "bald",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Frederick, Inga, Igor, and the Monster",
+    "origin": "Young Frankenstein",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A classic!",
+    "theme": ["movie"],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "bald",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Frederick, Inga, Igor, and Frau Blucher",
+    "origin": "Young Frankenstein",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A classic!",
+    "theme": [],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "bald",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Frederick, Inga, Igor, Frau Blucher, and the Monster",
+    "origin": "Young Frankenstein",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A classic!",
+    "theme": [],
+    "size": 5,
+    "characters": [
+      {
+        "hair": "bald",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Frederick, Inga, Igor, Frau Blucher, the Monster, and Elizabeth",
+    "origin": "Young Frankenstein",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A classic!",
+    "theme": [],
+    "size": 6,
+    "characters": [
+      {
+        "hair": "bald",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Coraline & Wybie",
+    "origin": "Coraline",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A spooky pair!",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "blue",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Coraline & Other Mother",
+    "origin": "Coraline",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A spooky pair!",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "blue",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Miriam Forcible & April Spink",
+    "origin": "Coraline",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A spooky pair!",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "gray",
+        "gender": "female"
+      },
+      {
+        "hair": "pink",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Coraline, Wybie, Other Mother, and Other Father",
+    "origin": "Coraline",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "An otherwordly group!",
+    "theme": ["movie", "family"],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "blue",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Coraline, Miriam, April, and Mr. Bobinsky",
+    "origin": "Coraline",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "An otherwordly group!",
+    "theme": [],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "blue",
+        "gender": "female"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      },
+      {
+        "hair": "pink",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Coraline, Wybie, Other Mother, Other Father, Miriam, April, and Mr. Bobinsky",
+    "origin": "Coraline",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "An otherwordly group!",
+    "theme": [],
+    "size": 7,
+    "characters": [
+      {
+        "hair": "blue",
+        "gender": "female"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      },
+      {
+        "hair": "pink",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Morticia & Gomez",
+    "origin": "Addams Family",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "They're creepily in love.",
+    "theme": ["couple"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "The Addams Family",
+    "origin": "Addams Family",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "They're creepy and they're kooky! Morticia, Gomez, Wednesday, and Pugsley make an excellent group",
+    "theme": ["family"],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "The Addams Family",
+    "origin": "Addams Family",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "They're creepy and they're kooky! Morticia, Gomez, Wednesday, Pugsley, and Fester make an excellent group",
+    "theme": [],
+    "size": 5,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "bald",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "The Addams Family",
+    "origin": "Addams Family",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "They're creepy and they're kooky! Morticia, Gomez, Wednesday, Pugsley, Fester, and Grandmama make an excellent group",
+    "theme": [],
+    "size": 6,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "bald",
+        "gender": "male"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "The Addams Family",
+    "origin": "Addams Family",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "They're creepy and they're kooky! Morticia, Gomez, Wednesday, Pugsley, Fester, Grandmama, and Lurch make an excellent group",
+    "theme": [],
+    "size": 7,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "bald",
+        "gender": "male"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "The Addams Family",
+    "origin": "Addams Family",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "They're creepy and they're kooky! Morticia, Gomez, Wednesday, Pugsley, Fester, Grandmama, Lurch, and Cousin Itt make an excellent group",
+    "theme": [],
+    "size": 8,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "bald",
+        "gender": "male"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "The Addams Family",
+    "origin": "Addams Family",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "They're creepy and they're kooky! Morticia, Gomez, Wednesday, Pugsley, Fester, Grandmama, Lurch, Cousin Itt, and Thing make an excellent group",
+    "theme": [],
+    "size": 9,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "bald",
+        "gender": "male"
+      },
+      {
+        "hair": "gray",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "",
+        "gender": ""
+      }
+    ]
+  },
+  {
+    "name": "Adam & Barbara Maitland",
+    "origin": "Beetlejuice",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "The couple that dies together, stays together",
+    "theme": ["couple"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Lydia & Betelgeuse",
+    "origin": "Beetlejuice",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A demon and a strange and unusual girl.",
+    "theme": [],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "green",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Beetlejuice, Barbara, and Adam",
+    "origin": "Beetlejuice",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A newly dead couple and their favorite demon.",
+    "theme": [],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "green",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Lydia, Barbara, and Adam",
+    "origin": "Beetlejuice",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A newly dead couple and their favorite strange and unusual teen.",
+    "theme": [],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Adam, Barbara, Betelgeuse, and Lydia",
+    "origin": "Beetlejuice",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A newly dead couple, a demon, and a strange and unusual teen.",
+    "theme": [],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "green",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Adam, Barbara, Betelgeuse, Lydia, Charles, and Delia",
+    "origin": "Beetlejuice",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A newly dead couple, a demon, a strange and unusual teen and her parents.",
+    "theme": [],
+    "size": 6,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "green",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Adam, Barbara, Betelgeuse, Lydia, Charles, Delia, and Otho",
+    "origin": "Beetlejuice",
+    "imageUrl": "",
+    "fandomLink": "",
+    "description": "A newly dead couple, a demon, a strange and unusual teen, her parents, and guru Otho.",
+    "theme": [],
+    "size": 7,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "green",
+        "gender": "male"
+      },
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "male"
+      }
+    ]
+  },
 ]
