@@ -2059,7 +2059,6 @@
     ]
   },
   {
-<<<<<<< HEAD
     "name": "Joy, Sadness, Fear, Anger, and Disgust",
     "origin": "Inside Out",
     "imageUrl": "https://media.wired.com/photos/5909536dd8c8646f38eef3c0/191:100/w_1280,c_limit/ap_insideout_ff1_HPA.jpg",
@@ -2095,11 +2094,6 @@
     "name": "Rock, Paper, Scissors",
     "origin": "",
     "imageUrl": "https://i.imgur.com/D4Li9Sv.png",
-=======
-    "name": "Rock, Paper, Scissors",
-    "origin": "Classics",
-    "imageUrl": "",
->>>>>>> 2b051f570b76cea6f0febfee8ec2a68d7493e8fd
     "fandomLink": "",
     "description": "Variants of this game have been discovered as far back Ancient China. Good luck!",
     "theme": ["classics"],
@@ -2121,13 +2115,8 @@
   },
   {
     "name": "Ketchup and Mustard",
-<<<<<<< HEAD
     "origin": "",
     "imageUrl": "https://i.imgur.com/Fd3T9rZ.png",
-=======
-    "origin": "Classics",
-    "imageUrl": "",
->>>>>>> 2b051f570b76cea6f0febfee8ec2a68d7493e8fd
     "fandomLink": "",
     "description": "This classic combo goes well with burgers. Delicious!",
     "theme": ["classics"],
@@ -2145,11 +2134,7 @@
   },
   {
     "name": "Mr. and Mrs. Pac-Man",
-<<<<<<< HEAD
     "origin": "Pac-Man Franchise",
-=======
-    "origin": "Video Games",
->>>>>>> 2b051f570b76cea6f0febfee8ec2a68d7493e8fd
     "imageUrl": "https://i.ytimg.com/vi/YXpWDA8-XyQ/hqdefault.jpg",
     "fandomLink": "https://pacman.fandom.com/wiki/Pac-Man_Wiki",
     "description": "They've been eating ghosts and falling in love for over 40 years.",
@@ -2167,14 +2152,9 @@
     ]
   },
   {
-    "name": "The Ghost Gang from Pac-Man",
-<<<<<<< HEAD
+    "name": "The Ghost Gang",
     "origin": "Pac-Man Franchise",
     "imageUrl": "https://i.imgur.com/kABziYj.png",
-=======
-    "origin": "Video Games",
-    "imageUrl": "https://static.wikia.nocookie.net/pacman/images/1/13/Bpic.png/revision/latest?cb=20211014025701",
->>>>>>> 2b051f570b76cea6f0febfee8ec2a68d7493e8fd
     "fandomLink": "https://pacman.fandom.com/wiki/Pac-Man_Wiki",
     "description": "Their names are Blinky (Red), Pinky (Pink), Inky (Blue), and Clyde (Orange).",
     "theme": ["videogames"],
@@ -2200,13 +2180,8 @@
   },
   {
     "name": "Tetronimos",
-<<<<<<< HEAD
     "origin": "Tetris",
     "imageUrl": "https://i.imgur.com/ybDgANe.png",
-=======
-    "origin": "Video Games",
-    "imageUrl": "https://static.wikia.nocookie.net/tetrisconcept/images/c/ca/Tetromino_image.png/revision/latest/scale-to-width-down/360?cb=20090706171943",
->>>>>>> 2b051f570b76cea6f0febfee8ec2a68d7493e8fd
     "fandomLink": "https://tetris.fandom.com/wiki/Tetromino",
     "description": "If you have all seven, you'll be sure to fit in at any party!",
     "theme": ["videogames"],
@@ -2245,11 +2220,7 @@
   {
     "name": "Apollo 11 Crew",
     "origin": "NASA",
-<<<<<<< HEAD
     "imageUrl": "https://i.imgur.com/p8KpBFt.png",
-=======
-    "imageUrl": "https://static.wikia.nocookie.net/space/images/2/29/Apollo_11-1-.jpg/revision/latest/scale-to-width-down/763?cb=20121130024421",
->>>>>>> 2b051f570b76cea6f0febfee8ec2a68d7493e8fd
     "fandomLink": "https://space.fandom.com/wiki/Apollo_11",
     "description": "Neil Armstrong, Buzz Aldrin, and Michael Collins were the crew for this historic space flight.",
     "theme": ["space", "nasa"],
@@ -2267,10 +2238,6 @@
         "hair": "brown",
         "gender": "male"
       }
-<<<<<<< HEAD
     ]
-=======
-    ],
->>>>>>> 2b051f570b76cea6f0febfee8ec2a68d7493e8fd
   }
 ]
