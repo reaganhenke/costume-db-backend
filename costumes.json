@@ -133,8 +133,7 @@
       },
       {
         "hair": "black",
-        "gender": "female",
-        "glasses": true
+        "gender": "female"
       },
       {
         "hair": "black",
@@ -142,8 +141,7 @@
       },
       {
         "hair": "black",
-        "gender": "female",
-        "glasses": true
+        "gender": "female"
       },
       {
         "hair": "black",
@@ -166,8 +164,7 @@
       },
       {
         "hair": "black",
-        "gender": "female",
-        "glasses": true
+        "gender": "female"
       },
       {
         "hair": "black",
@@ -190,8 +187,7 @@
       },
       {
         "hair": "black",
-        "gender": "female",
-        "glasses": true
+        "gender": "female"
       }
     ]
   },
@@ -206,8 +202,7 @@
     "characters": [
       {
         "hair": "black",
-        "gender": "female",
-        "glasses": true
+        "gender": "female"
       },
       {
         "hair": "blond",
@@ -495,8 +490,7 @@
     "characters": [
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "black",
@@ -1142,8 +1136,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       }
     ]
   },
@@ -1181,8 +1174,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "green",
@@ -1205,8 +1197,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "black",
@@ -1229,8 +1220,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "black",
@@ -1257,8 +1247,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "black",
@@ -1293,8 +1282,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "black",
@@ -2071,9 +2059,41 @@
     ]
   },
   {
+    "name": "Joy, Sadness, Fear, Anger, and Disgust",
+    "origin": "Inside Out",
+    "imageUrl": "https://media.wired.com/photos/5909536dd8c8646f38eef3c0/191:100/w_1280,c_limit/ap_insideout_ff1_HPA.jpg",
+    "fandomLink": "https://disney.fandom.com/wiki/Inside_Out",
+    "description": "We need all of our emotions",
+    "theme": ["animation", "family", "movie"],
+    "size": 5,
+    "characters": [
+      {
+        "hair": "blue",
+        "gender": "female",
+        "glasses": true
+      },
+      {
+        "hair": "blue",
+        "gender": "female"
+      },
+      {
+        "hair": "green",
+        "gender": "female"
+      },
+      {
+        "hair": "red",
+        "gender": "male"
+      },
+      {
+        "hair": "purple",
+        "gender": "male"
+      }
+    ]
+  },
+  {
     "name": "Rock, Paper, Scissors",
-    "origin": "Classics",
-    "imageUrl": "",
+    "origin": "",
+    "imageUrl": "https://i.imgur.com/D4Li9Sv.png",
     "fandomLink": "",
     "description": "Variants of this game have been discovered as far back Ancient China. Good luck!",
     "theme": ["classics"],
@@ -2095,8 +2115,8 @@
   },
   {
     "name": "Ketchup and Mustard",
-    "origin": "Classics",
-    "imageUrl": "",
+    "origin": "",
+    "imageUrl": "https://i.imgur.com/Fd3T9rZ.png",
     "fandomLink": "",
     "description": "This classic combo goes well with burgers. Delicious!",
     "theme": ["classics"],
@@ -2114,7 +2134,7 @@
   },
   {
     "name": "Mr. and Mrs. Pac-Man",
-    "origin": "Video Games",
+    "origin": "Pac-Man Franchise",
     "imageUrl": "https://i.ytimg.com/vi/YXpWDA8-XyQ/hqdefault.jpg",
     "fandomLink": "https://pacman.fandom.com/wiki/Pac-Man_Wiki",
     "description": "They've been eating ghosts and falling in love for over 40 years.",
@@ -2133,8 +2153,8 @@
   },
   {
     "name": "The Ghost Gang from Pac-Man",
-    "origin": "Video Games",
-    "imageUrl": "https://static.wikia.nocookie.net/pacman/images/1/13/Bpic.png/revision/latest?cb=20211014025701",
+    "origin": "Pac-Man Franchise",
+    "imageUrl": "https://i.imgur.com/kABziYj.png",
     "fandomLink": "https://pacman.fandom.com/wiki/Pac-Man_Wiki",
     "description": "Their names are Blinky (Red), Pinky (Pink), Inky (Blue), and Clyde (Orange).",
     "theme": ["videogames"],
@@ -2160,8 +2180,8 @@
   },
   {
     "name": "Tetronimos",
-    "origin": "Video Games",
-    "imageUrl": "https://static.wikia.nocookie.net/tetrisconcept/images/c/ca/Tetromino_image.png/revision/latest/scale-to-width-down/360?cb=20090706171943",
+    "origin": "Tetris",
+    "imageUrl": "https://i.imgur.com/ybDgANe.png",
     "fandomLink": "https://tetris.fandom.com/wiki/Tetromino",
     "description": "If you have all seven, you'll be sure to fit in at any party!",
     "theme": ["videogames"],
@@ -2200,7 +2220,7 @@
   {
     "name": "Apollo 11 Crew",
     "origin": "NASA",
-    "imageUrl": "https://static.wikia.nocookie.net/space/images/2/29/Apollo_11-1-.jpg/revision/latest/scale-to-width-down/763?cb=20121130024421",
+    "imageUrl": "https://i.imgur.com/p8KpBFt.png",
     "fandomLink": "https://space.fandom.com/wiki/Apollo_11",
     "description": "Neil Armstrong, Buzz Aldrin, and Michael Collins were the crew for this historic space flight.",
     "theme": ["space", "nasa"],
@@ -2218,414 +2238,6 @@
         "hair": "brown",
         "gender": "male"
       }
-<<<<<<< HEAD
     ]
-  },
-  {
-    "name": "The Fates",
-    "origin": "Hercules",
-    "imageUrl": "https://i.imgur.com/En4DEPs.png",
-    "fandomLink": "https://disney.fandom.com/wiki/Hercules_(film)",
-    "description": "Lechesis, Clotho, and Atropos are the Fates!",
-    "theme": [],
-    "size": 3,
-    "characters": [
-      {
-        "hair": "gray",
-        "gender": "female"
-      },
-      {
-        "hair": "gray",
-        "gender": "female"
-      },
-      {
-        "hair": "gray",
-        "gender": "female"
-      }
-    ]
-  },
-  {
-    "name": "Hades, Pain, and Panic",
-    "origin": "Hercules",
-    "imageUrl": "https://i.imgur.com/zRt28PR.png",
-    "fandomLink": "https://disney.fandom.com/wiki/Hercules_(film)",
-    "description": "The god of the underworld and his henchmen",
-    "theme": [],
-    "size": 3,
-    "characters": [
-      {
-        "hair": "blue",
-        "gender": "male"
-      },
-      {
-        "hair": "",
-        "gender": "male"
-      },
-      {
-        "hair": "",
-        "gender": "male"
-      }
-    ]
-  },
-  {
-    "name": "Pain & Panic",
-    "origin": "Hercules",
-    "imageUrl": "https://i.imgur.com/zRt28PR.png",
-    "fandomLink": "https://disney.fandom.com/wiki/Hercules_(film)",
-    "description": "The god of the underworld's henchmen",
-    "theme": [],
-    "size": 2,
-    "characters": [
-      {
-        "hair": "",
-        "gender": "male"
-      },
-      {
-        "hair": "",
-        "gender": "male"
-      }
-    ]
-  },
-  {
-    "name": "Ariel & Ursula",
-    "origin": "Little Mermaid",
-    "imageUrl": "https://i.imgur.com/bO1GbQm.png",
-    "fandomLink": "https://disney.fandom.com/wiki/The_Little_Mermaid",
-    "description": "The little mermaid and a sea witch!",
-    "theme": [],
-    "size": 2,
-    "characters": [
-      {
-        "hair": "red",
-        "gender": "female"
-      },
-      {
-        "hair": "gray",
-        "gender": "female"
-      }
-    ]
-  },
-  {
-    "name": "Ariel, Eric, King Triton, and Ursula",
-    "origin": "Little Mermaid",
-    "imageUrl": "https://i.imgur.com/JS5Dzvi.png",
-    "fandomLink": "https://disney.fandom.com/wiki/The_Little_Mermaid",
-    "description": "Part of your world!",
-    "theme": ["movie", "animation", "disney"],
-    "size": 4,
-    "characters": [
-      {
-        "hair": "red",
-        "gender": "female"
-      },
-      {
-        "hair": "gray",
-        "gender": "female"
-      },
-      {
-        "hair": "black",
-        "gender": "male"
-      },
-      {
-        "hair": "gray",
-        "gender": "male"
-      }
-    ]
-  },
-  {
-    "name": "Ariel & Eric",
-    "origin": "Little Mermaid",
-    "imageUrl": "https://i.imgur.com/6QBdn6W.png",
-    "fandomLink": "https://disney.fandom.com/wiki/The_Little_Mermaid",
-    "description": "Kiss the girl!",
-    "theme": ["couple"],
-    "size": 2,
-    "characters": [
-      {
-        "hair": "red",
-        "gender": "female"
-      },
-      {
-        "hair": "black",
-        "gender": "male"
-      }
-    ]
-  },
-  {
-    "name": "Ariel, King Triton, and Ursula",
-    "origin": "Little Mermaid",
-    "imageUrl": "https://i.imgur.com/JS5Dzvi.png",
-    "fandomLink": "https://disney.fandom.com/wiki/The_Little_Mermaid",
-    "description": "Part of your world!",
-    "theme": [],
-    "size": 3,
-    "characters": [
-      {
-        "hair": "red",
-        "gender": "female"
-      },
-      {
-        "hair": "gray",
-        "gender": "male"
-      },
-      {
-        "hair": "gray",
-        "gender": "female"
-      }
-    ]
-  },
-  {
-    "name": "Ariel, Eric, King Triton, Ursula, and Flounder",
-    "origin": "Little Mermaid",
-    "imageUrl": "https://i.imgur.com/JS5Dzvi.png",
-    "fandomLink": "https://disney.fandom.com/wiki/The_Little_Mermaid",
-    "description": "Part of your world!",
-    "theme": [],
-    "size": 5,
-    "characters": [
-      {
-        "hair": "red",
-        "gender": "female"
-      },
-      {
-        "hair": "gray",
-        "gender": "male"
-      },
-      {
-        "hair": "gray",
-        "gender": "female"
-      },
-      {
-        "hair": "black",
-        "gender": "male"
-      },
-      {
-        "hair": "blue",
-        "gender": "male"
-      }
-    ]
-  },
-  {
-    "name": "Elsa & Anna",
-    "origin": "Frozen",
-    "imageUrl": "https://i.imgur.com/gYxHPiq.png",
-    "fandomLink": "https://disney.fandom.com/wiki/Frozen",
-    "description": "Sisters and best friends.",
-    "theme": ["siblings"],
-    "size": 2,
-    "characters": [
-      {
-        "hair": "brown",
-        "gender": "female"
-      },
-      {
-        "hair": "blond",
-        "gender": "female"
-      }
-    ]
-  },
-  {
-    "name": "Anna & Kristoff",
-    "origin": "Frozen",
-    "imageUrl": "https://i.imgur.com/EYQc1OC.png",
-    "fandomLink": "https://disney.fandom.com/wiki/Frozen",
-    "description": "He's a bit of a fixer upper.",
-    "theme": ["couple"],
-    "size": 2,
-    "characters": [
-      {
-        "hair": "brown",
-        "gender": "female"
-      },
-      {
-        "hair": "brown",
-        "gender": "male"
-      }
-    ]
-  },
-  {
-    "name": "Elsa, Anna, and Kristoff",
-    "origin": "Frozen",
-    "imageUrl": "https://i.imgur.com/CgLiu46.png",
-    "fandomLink": "https://disney.fandom.com/wiki/Frozen",
-    "description": "Let it go!",
-    "theme": ["movie", "disney", "animation"],
-    "size": 3,
-    "characters": [
-      {
-        "hair": "brown",
-        "gender": "female"
-      },
-      {
-        "hair": "brown",
-        "gender": "male"
-      },
-      {
-        "hair": "blond",
-        "gender": "female"
-      }
-    ]
-  },
-  {
-    "name": "Elsa, Anna, Kristoff, and Olaf",
-    "origin": "Frozen",
-    "imageUrl": "https://i.imgur.com/CgLiu46.png",
-    "fandomLink": "https://disney.fandom.com/wiki/Frozen",
-    "description": "Let it go!",
-    "theme": [],
-    "size": 4,
-    "characters": [
-      {
-        "hair": "brown",
-        "gender": "female"
-      },
-      {
-        "hair": "brown",
-        "gender": "male"
-      },
-      {
-        "hair": "blond",
-        "gender": "female"
-      },
-      {
-        "hair": "",
-        "gender": "male"
-      }
-    ]
-  },
-  {
-    "name": "Elsa, Anna, Kristoff, Olaf, and Sven",
-    "origin": "Frozen",
-    "imageUrl": "https://i.imgur.com/CgLiu46.png",
-    "fandomLink": "https://disney.fandom.com/wiki/Frozen",
-    "description": "Let it go!",
-    "theme": [],
-    "size": 5,
-    "characters": [
-      {
-        "hair": "brown",
-        "gender": "female"
-      },
-      {
-        "hair": "brown",
-        "gender": "male"
-      },
-      {
-        "hair": "blond",
-        "gender": "female"
-      },
-      {
-        "hair": "",
-        "gender": "male"
-      },
-      {
-        "hair": "",
-        "gender": "male"
-      }
-    ]
-  },
-  {
-    "name": "Aladdin & Jasmine",
-    "origin": "Aladdin",
-    "imageUrl": "https://i.imgur.com/FSaBMba.png",
-    "fandomLink": "https://disney.fandom.com/wiki/Aladdin_(film)",
-    "description": "A whole new world!",
-    "theme": ["couple"],
-    "size": 2,
-    "characters": [
-      {
-        "hair": "black",
-        "gender": "female"
-      },
-      {
-        "hair": "black",
-        "gender": "male"
-      }
-    ]
-  },
-  {
-    "name": "Aladdin, Jasmine, and Genie",
-    "origin": "Aladdin",
-    "imageUrl": "https://i.imgur.com/AVh3mFC.png",
-    "fandomLink": "https://disney.fandom.com/wiki/Aladdin_(film)",
-    "description": "A whole new world!",
-    "theme": ["animation", "disney"],
-    "size": 3,
-    "characters": [
-      {
-        "hair": "black",
-        "gender": "female"
-      },
-      {
-        "hair": "black",
-        "gender": "male"
-      },
-      {
-        "hair": "blue",
-        "gender": "male"
-      }
-    ]
-  },
-  {
-    "name": "Aladdin, Jasmine, Genie, and Jafar",
-    "origin": "Aladdin",
-    "imageUrl": "https://i.imgur.com/AVh3mFC.png",
-    "fandomLink": "https://disney.fandom.com/wiki/Aladdin_(film)",
-    "description": "An animated classic.",
-    "theme": [],
-    "size": 4,
-    "characters": [
-      {
-        "hair": "black",
-        "gender": "female"
-      },
-      {
-        "hair": "black",
-        "gender": "male"
-      },
-      {
-        "hair": "blue",
-        "gender": "male"
-      },
-      {
-        "hair": "black",
-        "gender": "male"
-      }
-    ]
-  },
-  {
-    "name": "Joy, Sadness, Fear, Anger, and Disgust",
-    "origin": "Inside Out",
-    "imageUrl": "https://media.wired.com/photos/5909536dd8c8646f38eef3c0/191:100/w_1280,c_limit/ap_insideout_ff1_HPA.jpg",
-    "fandomLink": "https://disney.fandom.com/wiki/Inside_Out",
-    "description": "We need all of our emotions",
-    "theme": ["animation", "family", "movie"],
-    "size": 5,
-    "characters": [
-      {
-        "hair": "blue",
-        "gender": "female",
-        "glasses": true
-      },
-      {
-        "hair": "blue",
-        "gender": "female"
-      },
-      {
-        "hair": "green",
-        "gender": "female"
-      },
-      {
-        "hair": "red",
-        "gender": "male"
-      },
-      {
-        "hair": "purple",
-        "gender": "male"
-      }
-    ]
-=======
-    ],
->>>>>>> cbeba59 (add seven costumes)
   }
 ]
