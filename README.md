@@ -35,7 +35,17 @@ Example:
 - `description`: a brief description of the characters
 - `theme`: a list of themes the costume may fall under
 - `size`: how many people is the costume for?
-- `characters`: a list of the characters, represented by hair color/gender
+- `characters`: a list of the characters, represented by hair color/gender/glasses/etc
+
+Characters can now have glasses or be a pet/animal! These are optional boolean fields so feel free to leave them out, but they would look like this:
+```json
+      {
+        "hair": "brown",
+        "gender": "female",
+        "glasses": true,
+        "pet": false
+      }
+```
 
 ### general notes
 Please read the terms of use on [CostumeDatabase.com](https://costumedatabase.com/terms). Thanks for helping us out :)
