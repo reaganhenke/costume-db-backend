@@ -133,8 +133,7 @@
       },
       {
         "hair": "black",
-        "gender": "female",
-        "glasses": true
+        "gender": "female"
       },
       {
         "hair": "black",
@@ -142,8 +141,7 @@
       },
       {
         "hair": "black",
-        "gender": "female",
-        "glasses": true
+        "gender": "female"
       },
       {
         "hair": "black",
@@ -166,8 +164,7 @@
       },
       {
         "hair": "black",
-        "gender": "female",
-        "glasses": true
+        "gender": "female"
       },
       {
         "hair": "black",
@@ -190,8 +187,7 @@
       },
       {
         "hair": "black",
-        "gender": "female",
-        "glasses": true
+        "gender": "female"
       }
     ]
   },
@@ -206,8 +202,7 @@
     "characters": [
       {
         "hair": "black",
-        "gender": "female",
-        "glasses": true
+        "gender": "female"
       },
       {
         "hair": "blond",
@@ -495,8 +490,7 @@
     "characters": [
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "black",
@@ -1142,8 +1136,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       }
     ]
   },
@@ -1181,8 +1174,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "green",
@@ -1205,8 +1197,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "black",
@@ -1229,8 +1220,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "black",
@@ -1257,8 +1247,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "black",
@@ -1293,8 +1282,7 @@
       },
       {
         "hair": "brown",
-        "gender": "male",
-        "glasses": true
+        "gender": "male"
       },
       {
         "hair": "black",
@@ -2098,6 +2086,156 @@
       },
       {
         "hair": "purple",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Rock, Paper, Scissors",
+    "origin": "",
+    "imageUrl": "https://i.imgur.com/D4Li9Sv.png",
+    "fandomLink": "",
+    "description": "Variants of this game have been discovered as far back Ancient China. Good luck!",
+    "theme": ["classics"],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      }
+    ]
+  },
+  {
+    "name": "Ketchup and Mustard",
+    "origin": "",
+    "imageUrl": "https://i.imgur.com/Fd3T9rZ.png",
+    "fandomLink": "",
+    "description": "This classic combo goes well with burgers. Delicious!",
+    "theme": ["classics"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      }
+    ]
+  },
+  {
+    "name": "Mr. and Mrs. Pac-Man",
+    "origin": "Pac-Man Franchise",
+    "imageUrl": "https://i.ytimg.com/vi/YXpWDA8-XyQ/hqdefault.jpg",
+    "fandomLink": "https://pacman.fandom.com/wiki/Pac-Man_Wiki",
+    "description": "They've been eating ghosts and falling in love for over 40 years.",
+    "theme": ["videogames"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "any",
+        "gender": "male"
+      },
+      {
+        "hair": "any",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "The Ghost Gang",
+    "origin": "Pac-Man Franchise",
+    "imageUrl": "https://i.imgur.com/kABziYj.png",
+    "fandomLink": "https://pacman.fandom.com/wiki/Pac-Man_Wiki",
+    "description": "Their names are Blinky (Red), Pinky (Pink), Inky (Blue), and Clyde (Orange).",
+    "theme": ["videogames"],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      }
+    ]
+  },
+  {
+    "name": "Tetronimos",
+    "origin": "Tetris",
+    "imageUrl": "https://i.imgur.com/ybDgANe.png",
+    "fandomLink": "https://tetris.fandom.com/wiki/Tetromino",
+    "description": "If you have all seven, you'll be sure to fit in at any party!",
+    "theme": ["videogames"],
+    "size": 7,
+    "characters": [
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      },
+      {
+        "hair": "any",
+        "gender": "any"
+      }
+    ]
+  },
+  {
+    "name": "Apollo 11 Crew",
+    "origin": "NASA",
+    "imageUrl": "https://i.imgur.com/p8KpBFt.png",
+    "fandomLink": "https://space.fandom.com/wiki/Apollo_11",
+    "description": "Neil Armstrong, Buzz Aldrin, and Michael Collins were the crew for this historic space flight.",
+    "theme": ["space", "nasa"],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
+        "gender": "male"
+      },
+      {
+        "hair": "brown",
         "gender": "male"
       }
     ]
