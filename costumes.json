@@ -133,7 +133,8 @@
       },
       {
         "hair": "black",
-        "gender": "female"
+        "gender": "female",
+        "glasses": true
       },
       {
         "hair": "black",
@@ -141,7 +142,8 @@
       },
       {
         "hair": "black",
-        "gender": "female"
+        "gender": "female",
+        "glasses": true
       },
       {
         "hair": "black",
@@ -164,7 +166,8 @@
       },
       {
         "hair": "black",
-        "gender": "female"
+        "gender": "female",
+        "glasses": true
       },
       {
         "hair": "black",
@@ -187,7 +190,8 @@
       },
       {
         "hair": "black",
-        "gender": "female"
+        "gender": "female",
+        "glasses": true
       }
     ]
   },
@@ -202,7 +206,8 @@
     "characters": [
       {
         "hair": "black",
-        "gender": "female"
+        "gender": "female",
+        "glasses": true
       },
       {
         "hair": "blond",
@@ -490,7 +495,8 @@
     "characters": [
       {
         "hair": "brown",
-        "gender": "male"
+        "gender": "male",
+        "glasses": true
       },
       {
         "hair": "black",
@@ -1136,7 +1142,8 @@
       },
       {
         "hair": "brown",
-        "gender": "male"
+        "gender": "male",
+        "glasses": true
       }
     ]
   },
@@ -1174,7 +1181,8 @@
       },
       {
         "hair": "brown",
-        "gender": "male"
+        "gender": "male",
+        "glasses": true
       },
       {
         "hair": "green",
@@ -1197,7 +1205,8 @@
       },
       {
         "hair": "brown",
-        "gender": "male"
+        "gender": "male",
+        "glasses": true
       },
       {
         "hair": "black",
@@ -1220,7 +1229,8 @@
       },
       {
         "hair": "brown",
-        "gender": "male"
+        "gender": "male",
+        "glasses": true
       },
       {
         "hair": "black",
@@ -1247,7 +1257,8 @@
       },
       {
         "hair": "brown",
-        "gender": "male"
+        "gender": "male",
+        "glasses": true
       },
       {
         "hair": "black",
@@ -1282,7 +1293,8 @@
       },
       {
         "hair": "brown",
-        "gender": "male"
+        "gender": "male",
+        "glasses": true
       },
       {
         "hair": "black",
@@ -2059,6 +2071,34 @@
     ]
   },
   {
+   "name": "Joy, Sadness, Fear, Anger, and Disgust",
+    "origin": "Inside Out",
+    "imageUrl": "https://media.wired.com/photos/5909536dd8c8646f38eef3c0/191:100/w_1280,c_limit/ap_insideout_ff1_HPA.jpg",
+    "fandomLink": "https://disney.fandom.com/wiki/Inside_Out",
+    "description": "We need all of our emotions",
+    "theme": ["animation", "family", "movie"],
+    "size": 5,
+    "characters": [
+      {
+        "hair": "blue",
+        "gender": "female",
+        "glasses": true
+      },
+      {
+        "hair": "blue",
+        "gender": "female"
+      },
+      {
+        "hair": "green",
+        "gender": "female"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      }
+    ]
+  },
+  {   
     "name": "Lightning McQueen & Tow Mater",
     "origin": "Cars Trilogy",
     "imageUrl": "http://disney.wikia.com/wiki/Mater/Relationships",
@@ -2244,6 +2284,5 @@
         "gender": "female"
       }
     ]
-  },
-
+  }
 ]
