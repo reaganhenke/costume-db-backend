@@ -2131,7 +2131,7 @@
     "imageUrl": "https://i.imgur.com/KCFzjqa.png",
     "fandomLink": "https://pixar.fandom.com/wiki/Lightning_McQueen",
     "description": "Don't you big city racecars ever just take a drive?",
-    "theme": ["animation", "disney", "pixar", "couple"],
+    "theme": ["couple"],
     "size": 2,
     "characters": [
       {
@@ -2150,7 +2150,7 @@
     "imageUrl": "https://i.imgur.com/T19I5so.png",
     "fandomLink": "https://pixar.fandom.com/wiki/Piston_Cup_Racers",
     "description": "Speed. I am speed.",
-    "theme": ["animation", "disney", "pixar"],
+    "theme": [],
     "size": 3,
     "characters": [
       {
@@ -2173,7 +2173,7 @@
     "imageUrl": "https://i.imgur.com/NUMt9JL.png",
     "fandomLink": "https://disney.fandom.com/wiki/Luigi%27s_Casa_Della_Tires",
     "description": "Pit stop!",
-    "theme": ["animation", "disney", "pixar"],
+    "theme": [],
     "size": 2,
     "characters": [
       {
@@ -2225,7 +2225,7 @@
     "imageUrl": "https://i.imgur.com/T3g9DHy.png",
     "fandomLink": "https://scoobydoo.fandom.com/wiki/Mystery_Inc",
     "description": "Looks like we've got another mystery on our hands!",
-    "theme": ["animation", "television"],
+    "theme": [],
     "size": 4,
     "characters": [
       {
@@ -2322,6 +2322,129 @@
       {
         "hair": "any",
         "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Finn & Jake",
+    "origin": "Adventure Time",
+    "imageUrl": "https://i.imgur.com/a9J78Ri.png",
+    "fandomLink": "https://adventuretime.fandom.com/wiki/Adventure_Time_with_Finn_and_Jake_Wiki",
+    "description": "Homies help homies. Always.",
+    "theme": ["animation"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "any",
+        "gender": "male",
+        "pet": true
+      }
+    ]
+  },
+  {
+    "name": "Finn, Jake, and the Ice King",
+    "origin": "Adventure Time",
+    "imageUrl": "https://i.imgur.com/wqaZtod.png",
+    "fandomLink": "https://adventuretime.fandom.com/wiki/Adventure_Time_with_Finn_and_Jake_Wiki",
+    "description": "Two best friends and a misunderstood old man.",
+    "theme": [],
+    "size": 3,
+    "characters": [
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "any",
+        "gender": "male",
+        "pet": true
+      },
+      {
+        "hair": "gray",
+        "gender": "male"
+      }
+    ]
+  },
+  {
+    "name": "Princess Bubblegum & Marceline",
+    "origin": "Adventure Time",
+    "imageUrl": "https://i.imgur.com/C40RKPK.png",
+    "fandomLink": "https://adventuretime.fandom.com/wiki/Adventure_Time_with_Finn_and_Jake_Wiki",
+    "description": "They have a strong bond and complicated history",
+    "theme": ["couple"],
+    "size": 2,
+    "characters": [
+      {
+        "hair": "pink",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Finn, Jake, Princess Bubblegum, and Marceline",
+    "origin": "Adventure Time",
+    "imageUrl": "https://i.imgur.com/ZeBPpvy.png",
+    "fandomLink": "https://adventuretime.fandom.com/wiki/Adventure_Time_with_Finn_and_Jake_Wiki",
+    "description": "Characters from a magical world!",
+    "theme": ["animation"],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "any",
+        "gender": "male",
+        "pet": true
+      },
+      {
+        "hair": "pink",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      }
+    ]
+  },
+  {
+    "name": "Finn, Jake, Princess Bubblegum, Marceline, and Ice King",
+    "origin": "Adventure Time",
+    "imageUrl": "https://i.imgur.com/gZdaDVp.png",
+    "fandomLink": "https://adventuretime.fandom.com/wiki/Adventure_Time_with_Finn_and_Jake_Wiki",
+    "description": "Characters from a magical world!",
+    "theme": [],
+    "size": 5,
+    "characters": [
+      {
+        "hair": "blond",
+        "gender": "male"
+      },
+      {
+        "hair": "any",
+        "gender": "male",
+        "pet": true
+      },
+      {
+        "hair": "pink",
+        "gender": "female"
+      },
+      {
+        "hair": "black",
+        "gender": "female"
+      },
+      {
+        "hair": "gray",
+        "gender": "male"
       }
     ]
   }

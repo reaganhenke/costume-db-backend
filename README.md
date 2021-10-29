@@ -38,7 +38,7 @@ Example:
 - `imageUrl` (optional): an image of the characters. The image needs to be hosted somewhere we can render it. See the image section below. 
 - `fandomLink` (optional): a link to a fandom page where people can learn more
 - `description`: a brief description of the characters
-- `theme`: a list of themes the costume may fall under
+- `theme`: a list of themes the costume may fall under. this can be blank. it is used to show costumes on the "themes" pages, so you don't need to include a full list on every costume. 
 - `size`: how many people is the costume for?
 - `characters`: an array of the characters (more detail in the next section)
 
