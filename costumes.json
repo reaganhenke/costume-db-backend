@@ -1122,8 +1122,8 @@
         "gender": "male"
       },
       {
-        "hair": "",
-        "gender": ""
+        "hair": "any",
+        "gender": "any"
       }
     ]
   },
@@ -1485,7 +1485,7 @@
         "gender": "male"
       },
       {
-        "hair": "",
+        "hair": "any",
         "gender": "male"
       }
     ]
@@ -1512,12 +1512,13 @@
         "gender": "male"
       },
       {
-        "hair": "",
+        "hair": "any",
         "gender": "male"
       },
       {
-        "hair": "",
-        "gender": "male"
+        "hair": "any",
+        "gender": "male",
+        "pet": true
       }
     ]
   },
@@ -1735,12 +1736,14 @@
         "gender": "male"
       },
       {
-        "hair": "",
-        "gender": "male"
+        "hair": "any",
+        "gender": "male",
+        "pet": true
       },
       {
-        "hair": "",
-        "gender": "male"
+        "hair": "any",
+        "gender": "male",
+        "pet": true
       }
     ]
   },
@@ -1754,11 +1757,11 @@
     "size": 2,
     "characters": [
       {
-        "hair": "",
+        "hair": "any",
         "gender": "male"
       },
       {
-        "hair": "",
+        "hair": "any",
         "gender": "male"
       }
     ]
@@ -1965,7 +1968,7 @@
         "gender": "female"
       },
       {
-        "hair": "",
+        "hair": "any",
         "gender": "male"
       }
     ]
@@ -1992,12 +1995,13 @@
         "gender": "female"
       },
       {
-        "hair": "",
+        "hair": "any",
         "gender": "male"
       },
       {
-        "hair": "",
-        "gender": "male"
+        "hair": "any",
+        "gender": "male",
+        "pet": true
       }
     ]
   },
