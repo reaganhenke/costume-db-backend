@@ -2094,14 +2094,18 @@
       },
       {
         "hair": "red",
-        "gender": "female"
+        "gender": "male"
+      },
+      {
+        "hair": "purple",
+        "gender": "male"
       }
     ]
   },
   {   
     "name": "Lightning McQueen & Tow Mater",
     "origin": "Cars Trilogy",
-    "imageUrl": "http://disney.wikia.com/wiki/Mater/Relationships",
+    "imageUrl": "https://i.imgur.com/UsQxEYv.png",
     "fandomLink": "https://pixar.fandom.com/wiki/Lightning_McQueen",
     "description": "Kachow!",
     "theme": ["animation", "disney", "pixar"],
@@ -2120,7 +2124,7 @@
   {
     "name": "Lightning McQueen & Sally",
     "origin": "Cars Trilogy",
-    "imageUrl": "https://www.deviantart.com/lightningmcqueen2017/art/McQueen-and-Sally-Wallpaper-1240x698-668213992",
+    "imageUrl": "https://i.imgur.com/KCFzjqa.png",
     "fandomLink": "https://pixar.fandom.com/wiki/Lightning_McQueen",
     "description": "Don't you big city racecars ever just take a drive?",
     "theme": ["animation", "disney", "pixar", "couple"],
@@ -2139,7 +2143,7 @@
   {
     "name": "Piston Cup Racers",
     "origin": "Cars Trilogy",
-    "imageUrl": "https://www.bedandbreakfastamsterdamwest.nl/cars-collection/lightning-mcqueen/",
+    "imageUrl": "https://i.imgur.com/T19I5so.png",
     "fandomLink": "https://pixar.fandom.com/wiki/Piston_Cup_Racers",
     "description": "Speed. I am speed.",
     "theme": ["animation", "disney", "pixar"],
@@ -2162,7 +2166,7 @@
   {
     "name": "Luigi & Guido",
     "origin": "Cars Trilogy",
-    "imageUrl": "https://www.pinterest.com/safra31/luigi-cars/",
+    "imageUrl": "https://i.imgur.com/NUMt9JL.png",
     "fandomLink": "https://disney.fandom.com/wiki/Luigi%27s_Casa_Della_Tires",
     "description": "Pit stop!",
     "theme": ["animation", "disney", "pixar"],
@@ -2181,8 +2185,8 @@
   {
     "name": "Mystery Inc.",
     "origin": "Scooby-Doo",
-    "imageUrl": "http://hero.wikia.com/wiki/Mystery_Inc.",
-    "fandomLink": "https://scoobydoo.fandom.com/wiki/Mystery_Inc.",
+    "imageUrl": "https://i.imgur.com/T3g9DHy.png",
+    "fandomLink": "https://scoobydoo.fandom.com/wiki/Mystery_Inc",
     "description": "Looks like we've got another mystery on our hands!",
     "theme": ["animation", "television"],
     "size": 5,
@@ -2201,26 +2205,57 @@
       },
       {
         "hair": "brown",
-        "gender": "female"
+        "gender": "female",
+        "glasses": true
+      },
+      {
+        "hair": "brown",
+        "gender": "male",
+        "pet": true
+      }
+    ]
+  },
+  {
+    "name": "Mystery Inc.",
+    "origin": "Scooby-Doo",
+    "imageUrl": "https://i.imgur.com/T3g9DHy.png",
+    "fandomLink": "https://scoobydoo.fandom.com/wiki/Mystery_Inc",
+    "description": "Looks like we've got another mystery on our hands!",
+    "theme": ["animation", "television"],
+    "size": 4,
+    "characters": [
+      {
+        "hair": "blond",
+        "gender": "male"
       },
       {
         "hair": "brown",
         "gender": "male"
+      },
+      {
+        "hair": "red",
+        "gender": "female"
+      },
+      {
+        "hair": "brown",
+        "gender": "female",
+        "glasses": true
       }
     ]
   },
   {
     "name": "Velma & Daphne",
     "origin": "Scooby-Doo",
-    "imageUrl": "http://www.slashfilm.com/daphne-and-velma-movie/",
+    "imageUrl": "https://i.imgur.com/FfoNbun.png",
     "fandomLink": "https://scoobydoo.fandom.com/wiki/Daphne_Blake_and_Velma_Dinkley",
-    "description": "Velma, here's the thing you ever need to know about boys. They are stupid.",
-    "theme": ["animation", "television"],
+    "description": "Velma, here's the only thing you ever need to know about boys. They are stupid.",
+    "theme": ["animation", "television", "couple"],
     "size": 2,
     "characters": [
       {
         "hair": "brown",
-        "gender": "female"
+        "gender": "female",
+        "glasses": true
       },
       {
         "hair": "red",
@@ -2231,8 +2266,8 @@
   {
     "name": "Shaggy & Scooby",
     "origin": "Scooby-Doo",
-    "imageUrl": "http://www.slashfilm.com/daphne-and-velma-movie/",
-    "fandomLink": "https://scoobydoo.fandom.com/wiki/Daphne_Blake_and_Velma_Dinkley",
+    "imageUrl": "https://i.imgur.com/cdcvHKY.png",
+    "fandomLink": "https://scoobydoo.fandom.com/wiki/Mystery_Inc",
     "description": "Let's do what we do best Scoob, eat.",
     "theme": ["animation", "television"],
     "size": 2,
@@ -2243,25 +2278,26 @@
       },
       {
         "hair": "brown",
-        "gender": "male"
+        "gender": "male",
+        "pet": true
       }
     ]
   },
   {
     "name": "White Chicks",
     "origin": "White Chicks",
-    "imageUrl": "https://psimovie.com/white-chicks.html",
+    "imageUrl": "https://i.imgur.com/W0YZjc9.png",
     "fandomLink": "https://the-wayans.fandom.com/wiki/White_Chicks",
     "description": "Oh I know you hookers don't think this is over.",
     "theme": ["movie", "siblings"],
     "size": 2,
     "characters": [
       {
-        "hair": "",
+        "hair": "any",
         "gender": "male"
       },
       {
-        "hair": "",
+        "hair": "any",
         "gender": "male"
       }
     ]
@@ -2269,18 +2305,18 @@
   {
     "name": "Wall-E & Eve",
     "origin": "WALL-E",
-    "imageUrl": "https://www.hdwallpapers.in/download/wall_e_and_eve-wide.jpg",
+    "imageUrl": "https://i.imgur.com/dGQjtYJ.png",
     "fandomLink": "https://disney.fandom.com/wiki/WALL-E_(character)",
     "description": "Directive?",
     "theme": ["movie", "pixar", "disney", "couple"],
     "size": 2,
     "characters": [
       {
-        "hair": "",
+        "hair": "any",
         "gender": "male"
       },
       {
-        "hair": "",
+        "hair": "any",
         "gender": "female"
       }
     ]
